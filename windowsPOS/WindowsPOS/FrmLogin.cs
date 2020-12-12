@@ -19,7 +19,7 @@ namespace HCSoft.POS.WinApp
         private void Form1_Load(object sender, EventArgs e)
         {
 
-            string x = "Saludos";
+            string x = "Saludos hola";
            // MessageBox.Show(Seguridad.Desencriptar(new Usuario().ObtieneUsuario(10).Password.ToString()));
 
             lblError.Text = "";  
